@@ -1,0 +1,201 @@
+PatientI ID,Record Date,Sex,Marital Status,Birth Year,Education,Professional Status,Profession,Profession (If other),Health Insurance,Health Insurance Type (IF yes),Health Insurance Type (IF other),Your perception of your economic state,Your perception of your health state,How many years ago were you diagnosed as diabetic?,How is your diabetes treated?,Height (cm),Weight (kg),BMI (kg/m²),Fasting sugar (mg/dL),HbA1c (%),Cholesterol (mg/dL),Triglyceride (mg/dL),HDL (mg/dL),LDL (mg/dL),Blood pressure (Systolic),Blood pressure (Diastolic)
+1,2020-12-21 09:09:38,Female,Married,1971,Lycee,Retired,,,Yes,Emekli Sandýðý,,Good,Average ,16,OAD + Insulin,158,70,28.0,395,1139,633,1329,56.8,,120,80
+2,2020-12-18 10:16:02,Female,Not Married,1962,Primary School,Not working ,,,No,,,Bad,Bad,10,Insulin,165,80,29.4,125,9,,,,,,
+3,2020-12-25 11:26:47,Male,Married,1967,High School,Working,Labor,,Yes,,,Bad,Average ,16,OAD + Insulin,181,92,28.1,195,8.4,169,145,33,107,170,90
+4,2020-12-17 10:29:54,Female,Married,1954,Literate,Not working ,,,Yes,Other,Baðkur,Average ,Average ,10,OAD + Insulin,164,67.4,25.1,168,9.5,318,216,29.4,114.6,140,90
+5,2021-01-05 09:26:55,Female,Married,1960,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD + Insulin,150,70,31.1,287,9.6,233,266,42,157,,
+6,2020-12-16 10:49:21,Male,Married,1956,Primary School,Retired,,,Yes,Sosyal Sigorta,,Good,Bad,15,OAD + Insulin,185,109,31.8,179,10,34,174,39,71,160,80
+7,2020-12-23 10:09:23,Female,Married,1941,Illiterate,Not working ,,,Yes,Other,baðkur,Good,Good,2,OAD + Insulin,155,71.9,29.9,218,12.88,,,,,130,90
+8,2020-12-24 10:41:37,Female,Not Married,1957,Primary School,Working,Housewife,,Yes,Emekli Sandýðý,,Bad,Good,15,OAD + Insulin,160,80,31.2,326,9.1,202,112,76,104,100,60
+9,2021-01-04 13:43:58,Male,Married,1965,High School,Retired,,,Yes,Sosyal Sigorta,,Good,Average ,10,OAD + Insulin,180,100,30.9,182,9.3,186,867,27,,120,95
+10,2020-12-17 15:59:17,Female,Married,1951,Primary School,Not working ,,,Yes,,,Average ,Average ,10,OAD,165,74,27.2,127,6.5,,,,,130,80
+11,2020-12-18 11:52:24,Female,Married,1946,Literate,Not working ,,,Yes,Other,Baðkur,Good,Good,22,OAD + Insulin,153,65.8,28.1,163,11.53,221,160,42.7,146.3,130,80
+12,2020-12-24 10:59:16,Female,Married,1965,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Bad,3,OAD + Insulin,155,75,31.2,192,11,258,190,68.4,151.6,150,100
+13,2020-12-16 14:35:36,Male,Married,1960,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,24,OAD + Insulin,165,84,30.9,303,8.3,213,341,39,105,,
+14,2020-12-18 09:14:21,Female,Married,1952,Literate,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,8,OAD + Insulin,170,72,24.9,228,10,284,118,56,204,,
+15,2020-12-29 14:12:38,Male,Married,1944,Lycee,Retired,,,Yes,Emekli Sandýðý,,Good,Good,3,OAD + Insulin,170,115,39.8,149,8.1,142,135,33.4,81.6,120,70
+16,2020-12-24 10:46:52,Female,Married,1979,Primary School,Not working ,,,No,,,Average ,Good,12,OAD + Insulin,161,98,37.8,229,14,169,131,45,101,140,90
+17,2020-12-15 20:32:52,Male,Married,1953,University,Retired,,,Yes,Emekli Sandýðý,,Good,Average ,,,,,,,,,,,,,
+18,2020-12-25 13:48:21,Female,Not Married,1979,Literate,Not working ,,,Yes,,,Bad,Average ,12,OAD + Insulin,155,107,44.5,,13.9,,,,,,
+19,2021-01-05 14:42:12,Female,Married,1969,Primary School,Not working ,,,Yes,Other,eþinden dolayý baðkur,Good,Good,,,,,,,,,,,,,
+20,2020-12-30 13:14:10,Female,Married,1969,High School,Working,Housewife,,Yes,Sosyal Sigorta,,Bad,Bad,25,OAD + Insulin,155,110,45.8,119,7.25,190,134,33.9,129.3,145,75
+21,2020-12-16 10:16:25,Male,Married,1962,High School,Retired,,,Yes,Sosyal Sigorta,,Very Bad,Average ,8,OAD + Insulin,183,130,38.8,230,8.5,194,158,30.8,131.6,150,100
+22,2020-12-16 15:14:58,Female,Married,1966,Literate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,1,Insulin,,,,396,10.5,303,173,54,214,,
+23,2020-12-17 09:14:08,Female,Married,1986,High School,Not working ,,,Yes,,,Average ,Average ,4,OAD,153,71,30.3,266,10.7,186,121,57,86,130,70
+24,2020-12-22 11:41:40,Female,Married,1955,Illiterate,Not working ,,,No,,,Average ,Bad,10,Insulin,155,80,33.3,240,10,118,115,77,68,140,70
+25,2020-12-16 07:08:45,Male,Married,1956,Primary School,Working,Other,Driver,Yes,,,Average ,Good,11,OAD + Insulin,167,80,28.7,107,7,167,103,54,92,,
+26,2020-12-22 22:49:42,Female,Married,1973,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,12,OAD + Insulin,150,75,33.3,185,11.5,194,467,36,120,120,80
+27,2020-12-16 15:31:32,Male,Not Married,1973,Primary School,Retired,,,Yes,Sosyal Sigorta,,Bad,Very Good,15,OAD + Insulin,179,109,34.0,,8.8,,,,,,
+28,2020-12-21 09:56:43,Male,Married,1980,Lycee,Working,Labor,,Yes,Emekli Sandýðý,,Average ,Average ,1,OAD,178,100,31.6,232,9,138,396,23,35,150,80
+29,2020-12-17 10:10:41,Female,Not Married,1946,,Not working ,,,Yes,,,Average ,Average ,27,OAD + Insulin,155,92,38.3,179,9.2,245,176,,,150,90
+30,2020-12-15 16:32:24,Female,Married,1960,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Good,Average ,10,OAD + Insulin,161,119,45.9,196,9.8,188,200,66,172,155,90
+31,2020-12-21 09:58:53,Male,Married,1980,Primary School,Working,Labor,,Yes,,,Bad,Average ,2,OAD + Insulin,175,90,29.4,,12,,,,,120,70
+32,2020-12-21 10:53:04,Male,Married,1947,Lycee,Retired,,,Yes,Emekli Sandýðý,,Good,Good,1,OAD,159,84.5,33.4,130,8.44,185,141,42.4,,120,90
+33,2020-12-23 15:32:26,Male,Married,1952,Literate,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,0,OAD + Insulin,165,85,31.2,297,11.9,151,197,36,76,130,90
+34,2020-12-23 15:45:02,Female,Married,1969,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,4,OAD + Insulin,152,72,31.2,136,6.8,232,113,55,154,130,80
+35,2020-12-30 10:39:43,Male,Married,1959,Illiterate,Retired,,,Yes,Sosyal Sigorta,,Bad,Average ,1,OAD + Insulin,,,,,10,,,,,140,80
+36,2021-01-04 13:08:01,Male,Married,1950,Lycee,Working,Labor,,Yes,,,Good,Average ,8,OAD + Insulin,186,98,28.3,156,8.6,186,140,56,141,160,80
+37,2020-12-17 14:18:56,Female,Married,1990,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,1,OAD + Insulin,160,74,28.9,324,11.5,,,,,120,65
+38,2020-12-16 11:46:57,Male,Married,1994,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,1,Insulin,,,,,7.44,,,,,,
+39,2020-12-22 19:50:49,Female,Not Married,1967,Primary School,Working,Other,bakýcý,Yes,Sosyal Sigorta,,Bad,Bad,20,OAD + Insulin,158,84,33.6,191,8.4,272,193,69,164,130,80
+40,2020-12-22 09:59:06,Male,Married,1967,High School,Retired,,,Yes,,,Average ,Average ,1,OAD + Insulin,172,82,27.7,368,13.5,,398,26,156.3,130,70
+41,2020-12-22 14:15:15,Male,Married,1964,Lycee,Retired,,,Yes,Sosyal Sigorta,,Good,Average ,8,OAD + Insulin,180,81,25.0,220,9,194,130,55,112,130,80
+42,2020-12-29 15:20:51,Female,Married,1973,High School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,4,OAD + Insulin,167,83,29.8,127,8.4,271,165,52,136,100,60
+43,2020-12-30 16:06:31,Male,Married,1969,Primary School,Not working ,,,Yes,,,Very Bad,Very Bad,14,OAD + Insulin,162,61,23.2,497,9.1,173,86,49.2,85.2,130,80
+44,2021-01-05 10:30:49,Female,Married,1976,High School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,7,Insulin,165,82,30.1,274,11.2,156,101,71,65,150,90
+45,2020-12-17 10:55:55,Female,Married,1964,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Good,5,OAD,158,94,37.7,190,8.8,90,350,,102,130,80
+46,2020-12-28 11:38:03,Female,,,,,,,,,,,,,,,,,,,,,,,,
+47,2020-12-22 12:56:42,Male,Married,1966,Lycee,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Good,1,OAD + Insulin,162,80,30.5,104,5.8,170,121,52,93,130,80
+48,2020-12-17 14:46:14,Female,Married,1950,Literate,Not working ,,,Yes,Other,Baðkur,Good,Average ,10,OAD + Insulin,160,75,29.3,191,11.74,164,89,54,91.4,140,80
+49,2020-12-23 15:24:02,Male,Not Married,1973,University,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Average ,3,OAD,178,97,30.6,140,7.6,181,241,42,91,120,80
+50,2020-12-15 21:06:12,Female,Married,1955,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,21,OAD + Insulin,155,83,34.5,101,6.6,148,139,42,92,154,79
+51,2020-12-29 10:17:48,Male,Married,1955,Primary School,Retired,,,Yes,,,Average ,Average ,15,OAD + Insulin,168,88,31.2,192,8.8,175,185,38,66,140,80
+52,2020-12-29 10:19:25,Female,Married,1976,Lycee,Working,Housewife,,Yes,Sosyal Sigorta,,Average ,Good,5,OAD + Insulin,164,65,24.2,102,7,150,158,42,100,125,75
+53,2020-12-22 20:32:40,Male,Married,1964,Lycee,Retired,,,Yes,Sosyal Sigorta,,Average ,Good,5,OAD + Insulin,162,96,36.6,145,8.3,218,166,48.5,156.3,140,90
+54,2020-12-21 09:16:44,Female,Not Married,1984,Lycee,Not working ,,,No,,,Good,Average ,1,OAD + Insulin,160,78,30.5,142,9.4,195,72,68,113,,
+55,2020-12-24 10:54:47,Female,Married,1959,High School,Not working ,,,Yes,Sosyal Sigorta,,Good,Average ,15,OAD + Insulin,160,80,31.2,254,9.2,,,,,110,80
+56,2020-12-18 10:58:12,Female,Married,1984,Primary School,Not working ,,,Yes,,,Average ,Average ,2,OAD,159,73,28.9,200,7,197,135,52,107,130,70
+57,2020-12-18 16:01:38,Male,Married,1949,Literate,Retired,,,Yes,Emekli Sandýðý,,Bad,Bad,9,Insulin,169,78,27.3,250,10,189,114,38,128,120,70
+58,2020-12-17 10:46:39,Female,Married,1957,Literate,Not working ,,,Yes,Other,Baðkur,Average ,Average ,4,OAD + Insulin,147,86.5,40.0,230,3.83,166,181,25.9,103.9,130,90
+59,2020-12-18 15:55:50,Female,Not Married,1959,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Bad,18,OAD,157,84,34.1,190,9,253,261,52,148,150,90
+60,2021-01-05 14:06:12,Male,Married,1954,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Bad,15,OAD + Insulin,169,81,28.4,202,9.34,228.8,1835,765,115.5,135,75
+61,2020-12-21 15:03:34,Female,Not Married,1985,High School,Working,Other,FABRÝKA KALÝTE KONTROL,Yes,,,Average ,Average ,13,OAD + Insulin,165,68,25.0,256,13.7,112,158,47,76,120,80
+62,2020-12-23 15:26:42,Female,Married,1975,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,0,OAD + Insulin,160,68,26.6,,12,,,,,,
+63,2020-12-23 14:24:24,Female,Married,1982,Primary School,Working,Other,SERA DA,Yes,Sosyal Sigorta,,Average ,Good,1,OAD + Insulin,150,62,27.6,114,9.6,,,,,,
+64,2021-01-05 14:36:12,Female,Married,1970,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Very Bad,Average ,5,OAD + Insulin,169,82,28.7,300,12.7,246,222,57,145,135,80
+65,2020-12-16 08:47:58,Female,Married,1965,Literate,Not working ,,,Yes,,,Average ,Very Bad,1,OAD,160,88,34.4,99,6.1,144,150,42,96,140,80
+66,2020-12-28 10:42:41,Female,Married,1960,Primary School,Not working ,,,Yes,Emekli Sandýðý,,Average ,Good,15,OAD + Insulin,158,75,30.0,165,8.9,236,221,40,133,130,80
+67,2020-12-18 10:15:54,Female,Married,1972,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD + Insulin,165,101,37.1,245,10.2,257,188,60,159,,
+68,2020-12-17 08:33:47,Female,Married,1972,Illiterate,Not working ,,,Yes,,,Very Bad,Average ,2,OAD,155,78,32.5,122,5.2,170,288,55,78,130,70
+69,2020-12-24 14:26:27,Female,Married,1968,Illiterate,Not working ,,,No,,,Bad,Good,10,OAD + Insulin,155,72,30.0,186,13.6,176,182,55,98,140,70
+70,2020-12-24 14:08:35,Female,Married,1976,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,10,OAD + Insulin,156,94,38.6,130,8.4,209,138,61,119,150,100
+71,2020-12-24 14:44:57,Male,Married,1979,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Good,Good,1,OAD + Insulin,176,95.3,30.8,228,7.18,132,219,32.8,55.4,110,70
+72,2021-01-05 08:41:11,Female,Married,1968,Illiterate,Working,Housewife,,Yes,Sosyal Sigorta,,Very Bad,Very Bad,8,OAD + Insulin,152,62,26.8,288,12.5,217,340,50.9,98.1,110,65
+73,2020-12-17 15:31:29,Male,Married,1952,University,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,9,OAD + Insulin,177,74,23.6,338,11.3,,,,,140,90
+74,2020-12-23 11:47:21,Male,Married,1956,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Bad,15,OAD + Insulin,177,70,22.3,220,10,113,106,30,61,130,80
+75,2020-12-24 12:05:51,Female,Married,1964,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,5,OAD + Insulin,155,65,27.1,221,10,,,,,,
+76,2020-12-24 10:14:22,Female,Married,1953,Primary School,Working,Housewife,,Yes,Emekli Sandýðý,,Average ,Average ,10,OAD,170,85,29.4,470,10.4,280,151,84,210,110,70
+77,2020-12-15 14:44:01,Male,Married,1954,Lycee,Retired,,,Yes,Sosyal Sigorta,,Good,Good,4,OAD,171,85,29.1,82,5.81,111,36,46,57,128,84
+78,2020-12-24 14:20:08,Female,Married,1952,Primary School,Retired,,,Yes,Emekli Sandýðý,,Good,Good,16,OAD + Insulin,165,80,29.4,170,7.9,175,226,45,85,150,80
+79,2020-12-17 15:06:55,Female,Married,1974,Lycee,Not working ,,,Yes,,,Average ,Average ,4,OAD + Insulin,170,84,29.1,152,11.4,246,167,52,135,110,80
+80,2020-12-22 13:57:17,Male,Married,1961,Lycee,Retired,,,Yes,Emekli Sandýðý,,Average ,Average ,1,OAD,174,88,29.1,229,7.6,204,197,,253,130,80
+81,2020-12-30 10:10:05,Female,Married,1983,Literate,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,5,OAD,165,88,32.3,248,8.5,230,314,36,123,130,80
+82,2020-12-25 15:49:04,Female,Married,1953,Literate,Not working ,,,Yes,Sosyal Sigorta,,Good,Average ,11,OAD + Insulin,158,59,23.6,317,7.7,205,365,,100,120,80
+83,2020-12-29 10:03:56,Male,Married,1970,Literate,Not working ,,,Yes,Other,eþinden dolayý emekli sandýðý,Good,Good,8,OAD + Insulin,155,81,33.7,394,10.88,237,751,31.1,,130,80
+84,2020-12-23 12:32:48,Female,Not Married,1941,Illiterate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,35,OAD,150,85,37.8,152,7.8,197,200,44.3,112.7,130,75
+85,2020-12-17 11:14:43,Female,Not Married,1956,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,15,OAD + Insulin,150,84,37.3,119,7.4,,190,,112,,
+86,2020-12-17 14:04:24,Male,Married,1967,Primary School,Working,Labor,serbest,Yes,Sosyal Sigorta,,Average ,Average ,17,OAD + Insulin,178,84,26.5,167,10.4,237,168,45,192,130,80
+87,2021-01-04 13:22:54,Male,Married,1954,Lycee,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,7,OAD + Insulin,180,102,31.5,172,8.1,208,165,78,199,140,70
+88,2020-12-16 10:06:13,Female,Married,1969,Lycee,Working,Other,temizlik,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD,145,118,56.1,88,6,155,170,39,82,,
+89,2020-12-16 10:50:02,Male,Married,1972,High School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,3,OAD + Insulin,175,70,22.9,300,11.2,225,285,25,155,142,85
+90,2020-12-30 16:15:42,Male,Married,1964,Primary School,Not working ,,,Yes,,,Very Bad,Bad,16,OAD + Insulin,178,83,26.2,322,12.49,265,251,41,173.8,135,80
+91,2020-12-23 09:51:18,Female,Married,1966,Primary School,Not working ,,,Yes,Other,baðkur,Good,Good,6,OAD,158,92.8,37.2,180,10.35,187,231,41.8,99,130,80
+92,2020-12-24 15:08:52,Female,Married,1983,Illiterate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,2,OAD + Insulin,155,112,46.6,,12,,,,,,
+93,2020-12-22 13:49:40,Male,Married,1948,Primary School,Retired,,,Yes,Emekli Sandýðý,,Bad,Bad,5,OAD + Insulin,170,71,24.6,82,11.7,409,62,,70,140,80
+94,2020-12-24 13:10:46,Female,Married,1965,High School,Working,Labor,,Yes,,,Average ,Average ,10,OAD + Insulin,150,71,31.6,233,11.89,224,405,55.7,129,180,90
+95,2020-12-30 08:32:25,Female,Married,1985,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,5,OAD,155,89,37.0,157,7.9,96,83,60,64,130,70
+96,2020-12-22 10:41:28,Male,Married,1971,University,Retired,,,Yes,Emekli Sandýðý,,Average ,Good,11,OAD,178,98,30.9,240,11.3,263,203,52,175,110,60
+97,2020-12-23 14:35:05,Female,Married,1974,University,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Average ,5,OAD,158,75,30.0,158,9,197,116,55,119,132,84
+98,2020-12-23 15:14:42,Female,Married,1960,Literate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,11,OAD + Insulin,164,117,43.5,,12,,,,,140,80
+99,2020-12-22 10:17:25,Male,Married,1954,Lycee,Not working ,,,Yes,Emekli Sandýðý,,Good,Good,20,Insulin,162,72.6,27.7,130,6.81,207,289,33.4,115.8,130,90
+100,2020-12-16 13:29:59,Male,Married,1954,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD + Insulin,175,70,22.9,269,9.2,190,156,57,102,,
+101,2020-12-21 15:40:17,Female,Married,1971,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,4,OAD + Insulin,162,86,32.8,147,10.3,209,193,54,137,100,70
+102,2020-12-16 10:27:43,Male,Married,1980,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Good,1,OAD + Insulin,170,76,26.3,335,11,259,433,34,,,
+103,2020-12-25 10:58:20,Male,Married,1971,Lycee,Working,Officer,,Yes,Sosyal Sigorta,,Average ,Average ,6,OAD + Insulin,174,82,27.1,220,10,190,189,35,117,140,70
+104,2020-12-17 15:42:20,Female,Married,1954,Illiterate,Not working ,,,Yes,Other,Baðkur,Good,Good,16,OAD + Insulin,160,119.7,46.8,211,10.91,171,152,42.3,99.1,140,90
+105,2020-12-21 07:15:20,Male,Married,1969,Literate,Retired,,,Yes,Sosyal Sigorta,,Bad,Bad,3,OAD + Insulin,169,66,23.1,393,16.7,246,113,40,183,,
+106,2020-12-22 20:01:15,Female,Married,1968,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,10,OAD,163,75,28.2,220,8.4,194,186,636,,120,80
+107,2020-12-22 14:51:42,Male,Married,1962,Lycee,Not working ,,,Yes,Emekli Sandýðý,,Good,Good,10,OAD + Insulin,163,74.4,28.0,277,9.84,192,522,27.9,,120,80
+108,2020-12-18 10:02:03,Female,Married,1952,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Bad,38,OAD + Insulin,150,64,28.4,280,10,318,326,43,219,140,80
+109,2020-12-31 14:10:44,Male,Married,1959,,Retired,,,Yes,Other,BAÐKUR,Average ,Good,15,OAD + Insulin,,,,119,7.04,152,111,48.1,82,,
+110,2020-12-16 16:13:01,Male,Married,1970,University,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,15,OAD + Insulin,173,84,28.1,244,9,157,238,32,77,130,80
+111,2020-12-22 15:38:23,Female,Married,1980,Literate,Not working ,,,Yes,Other,baðkur,Good,Good,1,OAD + Insulin,162,71.4,27.2,293,9.57,239,230,49.7,143.3,120,80
+112,2020-12-23 10:21:26,Female,Married,1956,Primary School,Not working ,,,No,,,Average ,Average ,7,OAD,160,117,45.7,180,8,,,,,,
+113,2021-01-04 10:51:22,Male,Married,1975,High School,Working,Other,Driver,Yes,Sosyal Sigorta,,Average ,Average ,5,Insulin,175,96,31.3,270,9,138,121,42,74,140,90
+114,2020-12-16 10:13:37,Male,Married,1971,Primary School,Retired,,,Yes,,,Bad,Good,15,OAD + Insulin,,,,,7.1,,,,,,
+115,2020-12-21 09:17:20,Male,Married,1959,High School,Retired,,,Yes,Emekli Sandýðý,,Good,Average ,10,OAD + Insulin,165,101,37.1,217,11.5,170,212,29,99,,
+116,2020-12-17 09:54:04,Male,Married,1965,Literate,Working,Farmer,,Yes,Other,Baðkur,Average ,Average ,6,OAD + Insulin,166,80,29.0,320,9,217,365,29,114,130,90
+117,2021-01-05 10:15:00,Female,Married,1965,Illiterate,Not working ,,,Yes,Emekli Sandýðý,,Bad,Average ,25,OAD + Insulin,151,86,37.7,205,9.1,167,129,43,98,140,90
+118,2020-12-23 15:08:49,Male,Married,1955,Lycee,Retired,,,Yes,Emekli Sandýðý,,Average ,,20,Insulin,164,66,24.5,162,9.4,,,,,120,80
+119,2020-12-24 09:55:46,Male,Married,1966,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,5,OAD,172,75,25.4,180,9,206,184,39,130,140,90
+120,2020-12-29 10:08:37,Female,Married,1976,Lycee,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,6,OAD,165,65,23.9,102,7.1,150,152,45,100,130,72
+121,2020-12-24 10:13:46,Male,Married,1950,Primary School,Not working ,,,Yes,Other,BAÐ KUR,Good,Very Good,18,OAD + Insulin,,,,,7.75,,,,,,
+122,2020-12-22 20:10:10,Female,Not Married,1977,Lycee,Working,Other,medical secretary,Yes,Sosyal Sigorta,,Average ,Good,14,OAD,160,90,35.2,152,6.3,174,264,40.6,80.6,110,70
+123,2020-12-21 09:02:40,Female,Married,1971,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD,162,68,25.9,172,8.9,195,179,47,116,,
+124,2020-12-25 09:13:44,Female,Married,1982,Primary School,Not working ,,,Yes,,,Average ,Bad,9,OAD,162,76,29.0,154,7.9,124,112,47,64,120,80
+125,2020-12-22 23:00:13,Female,Not Married,1968,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,11,OAD + Insulin,155,95,39.5,150,8,116,92,40,57,110,70
+126,2020-12-24 10:27:12,Male,Married,1961,Primary School,Working,Other,Driver,Yes,Emekli Sandýðý,,Average ,Bad,15,OAD,173,104.5,34.9,136,7.5,186,154,62,146,130,70
+127,2020-12-18 11:01:53,Male,Not Married,2001,Lycee,Not working ,,,Yes,Other,Baðkur,Good,Good,1,Insulin,177,61.7,19.7,158,11.8,172,74,72,85.2,110,70
+128,2020-12-17 13:47:56,Male,Married,1962,University,Retired,,,Yes,Emekli Sandýðý,,Average ,Good,1,OAD + Insulin,180,95,29.3,105,15,49,169,,49,120,75
+129,2020-12-23 15:18:44,Male,Married,1974,High School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,2,OAD,174,68,22.5,180,9,,,,,120,80
+130,2020-12-21 15:55:54,Male,Married,1957,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Good,Average ,21,OAD,160,75,29.3,120,8.1,223,,,89,150,80
+131,2020-12-31 15:57:01,Male,Married,1975,Primary School,Working,Other,Driver,Yes,Sosyal Sigorta,,Average ,Good,,,,,,,,,,,,,
+132,2020-12-23 11:53:07,Male,Married,1953,Primary School,Retired,,,Yes,Sosyal Sigorta,,Good,Average ,1,Insulin,168,92,32.6,,13,,,,,120,70
+133,2020-12-23 15:43:28,Male,Not Married,1971,High School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,10,OAD + Insulin,170,80,27.7,300,11,117,346,31,16,130,70
+134,2020-12-29 10:10:22,Female,Married,1974,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,6,OAD + Insulin,165,88,32.3,,11,,,,,,
+135,2020-12-16 08:35:44,Female,Married,1970,Lycee,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,0,OAD + Insulin,162,105,40.0,359,11,134,231,28,69,,
+136,2020-12-16 14:59:41,Male,Not Married,1993,University,Working,Other,teknik servis,Yes,Sosyal Sigorta,,Good,Good,0,Insulin,175,70,22.9,263,9.6,182,78,69,97,,
+137,2020-12-29 14:24:16,Male,Married,1949,Primary School,Retired,,,Yes,,,Bad,Average ,10,OAD,165,70,25.7,156,7.5,181,250,40.6,90.4,130,75
+138,2020-12-22 12:43:48,Male,Married,1968,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,6,OAD,172,98,33.1,186,8.1,180,183,42,101,120,80
+139,2020-12-25 14:33:47,Male,Married,1963,Primary School,Working,Labor,,Yes,,,Very Bad,Bad,15,OAD + Insulin,165,80,29.4,197,11.66,188,292,30.2,56.1,140,70
+140,2020-12-23 14:10:29,Female,Married,1970,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Good,2,OAD,170,112,38.8,124,6.5,,,,,130,80
+141,2020-12-17 08:53:16,Female,Married,1970,Primary School,Not working ,,,Yes,,,Bad,Average ,2,OAD,158,90,36.1,554,13.5,226,241,170,37,130,80
+142,2020-12-29 09:15:19,Male,Married,1961,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Good,7,OAD,151,68,29.8,134,8.7,,,,,140,80
+143,2020-12-16 11:55:57,Female,Married,1949,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,22,OAD,,,,122,8,,,,,,
+144,2020-12-16 15:08:21,Male,Not Married,1984,Lycee,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Good,10,Insulin,182,80,24.2,124,7.5,,,,,,
+145,2020-12-24 12:29:59,Female,Not Married,1966,Illiterate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Bad,18,OAD + Insulin,150,115,51.1,310,9,120,228,31,43,140,80
+146,2020-12-22 15:16:29,Female,Married,1944,Illiterate,Not working ,,,Yes,Other,engelli maaþý,Bad,Bad,18,OAD + Insulin,144,67,32.3,210,9.32,239,188,64.9,136.5,120,70
+147,2020-12-22 13:09:34,Female,Not Married,1969,Primary School,Not working ,Housewife,,No,,,Good,Good,13,OAD + Insulin,160,62,24.2,96,6.6,120,81,46.7,51.7,110,70
+148,2020-12-28 11:38:37,Female,Not Married,1968,Primary School,Not working ,,,No,,,Average ,Average ,8,OAD,160,75,29.3,180,8.9,249,546,47,176,140,90
+149,2020-12-23 14:53:42,Male,Married,1973,Lycee,Working,Other,,Yes,Sosyal Sigorta,,Average ,Good,8,OAD + Insulin,170,83,28.7,190,11,185,106,40,143,140,90
+150,2020-12-18 15:05:16,Female,Married,1950,Literate,Not working ,,,Yes,Other,BAÐKUR,Good,Average ,10,Insulin,160,87.2,34.1,283,10.02,226,57,62.1,152,130,90
+151,2021-01-05 13:42:48,Male,Married,1971,University,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Average ,8,OAD + Insulin,167,105,37.6,363,12.3,191,365,36,56,140,80
+152,2020-12-28 10:47:18,Male,Married,1954,Primary School,Retired,,,Yes,Sosyal Sigorta,,Bad,Average ,,OAD + Insulin,171,95,32.5,255,13.8,192,294,56.2,138,155,85
+153,2020-12-22 09:18:53,Male,Married,1972,Lycee,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,20,OAD + Insulin,163,108,40.6,248,9.37,256,335,39.9,149.1,140,90
+154,2020-12-25 11:34:28,Female,Married,1947,Literate,Retired,,,Yes,Sosyal Sigorta,,Average ,Average ,7,OAD + Insulin,158,74,29.6,185,8.1,,,,,100,60
+155,2020-12-16 10:30:45,Female,Married,1950,Literate,Retired,,,Yes,Sosyal Sigorta,,Good,Average ,30,Insulin,160,110,43.0,180,8,,,,,140,80
+156,2020-12-18 13:39:17,Female,Married,1978,Primary School,Working,Other,,Yes,,,Average ,Average ,7,Insulin,156,89,36.6,,12.2,,,,,,
+157,2020-12-28 10:21:51,Male,Married,1971,University,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,1,OAD,172,90,30.4,176,6.6,,,,,,
+158,2020-12-29 16:10:03,Female,Married,1969,Literate,Working,Housewife,,Yes,Sosyal Sigorta,,Bad,Average ,3,OAD + Insulin,155,88,36.6,109,12.44,223,186,40.6,143.8,140,80
+159,2020-12-28 10:16:31,Female,Married,1962,Primary School,Working,Housewife,,Yes,,,Average ,Average ,20,OAD + Insulin,153,68,29.0,197,10.29,326,966,29.3,,180,100
+160,2020-12-18 10:11:06,Male,Married,1982,University,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,5,OAD + Insulin,180,90,27.8,228,11,179,330,31,82,120,80
+161,2020-12-23 12:16:34,Female,Married,1972,University,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Average ,12,OAD + Insulin,165,100,36.7,170,7.6,290,170,38,136,120,70
+162,2020-12-23 15:07:13,Male,Married,1972,University,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,2,OAD + Insulin,172,130,43.9,236,15.1,423,326,,,160,85
+163,2020-12-23 15:46:21,Male,Married,1980,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,,1,OAD,172,71.6,24.2,304,10.01,237,207,41.9,153.7,110,70
+164,2020-12-25 11:35:26,Male,Married,1959,Primary School,Working,Other,aþçý,Yes,Emekli Sandýðý,,Average ,Good,10,OAD + Insulin,167,65,23.3,300,7.5,110,125,4.3,88.1,110,75
+165,2020-12-29 10:38:29,Female,Married,1960,Primary School,Working,Housewife,,Yes,Sosyal Sigorta,,Average ,Average ,,,,,,,,,,,,,
+166,2020-12-31 11:36:40,Female,Married,1970,High School,Working,Labor,,Yes,Sosyal Sigorta,,Good,Average ,12,OAD,150,50,22.2,171,10.4,206,49,73,123,100,70
+167,2020-12-29 10:02:00,Male,Married,1955,High School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,8,OAD + Insulin,172,92,31.1,205,10.2,225,330,28,185,138,92
+168,2020-12-29 15:59:34,Male,Married,1950,Literate,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,25,OAD,160,85,33.2,220,9,,,,,130,80
+169,2020-12-17 00:04:36,Male,Married,1975,Post Graduate,Working,Officer,,Yes,Emekli Sandýðý,,Good,Good,4,OAD,174,95,31.4,76,5.7,170,280,35,,120,80
+170,2021-01-05 09:57:42,Female,Married,1956,Illiterate,Working,Housewife,,Yes,Sosyal Sigorta,,Bad,Very Bad,20,OAD + Insulin,157,77,31.2,71,8.5,136,244,25.8,61.4,135,85
+171,2020-12-18 07:06:47,Male,Married,1946,Primary School,Retired,,,Yes,Sosyal Sigorta,,Average ,Bad,50,Insulin,168,80,28.3,161,8.9,205,269,30,121,,
+172,2020-12-18 13:46:47,Male,Married,1954,Literate,Retired,,,Yes,Sosyal Sigorta,,Average ,Bad,25,OAD + Insulin,168,95,33.7,,15.9,,,,,,
+173,2020-12-28 09:24:25,Female,Married,1985,Primary School,Not working ,,,Yes,,,Good,Bad,10,OAD + Insulin,170,85,29.4,147,7.9,106,124,57,86,150,90
+174,2020-12-28 11:25:10,Male,Married,1965,Literate,Working,Farmer,,Yes,Sosyal Sigorta,,Good,Good,6,OAD + Insulin,166,80,29.0,452,9.4,217,365,29.4,114.61,130,90
+175,2020-12-30 08:39:31,Male,Married,1969,Primary School,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Good,8,OAD,176,84,27.1,168,7.4,166,204,38,92,120,70
+176,2020-12-23 15:02:06,Female,Married,1979,University,Working,Other,medical secretary,Yes,Sosyal Sigorta,,Average ,Good,6,OAD,165,63,23.1,98,6.3,233,120,48,180,100,60
+177,2020-12-24 09:30:58,Male,Married,1969,Primary School,Not working ,,,No,,,Average ,Average ,10,OAD + Insulin,178,103,32.5,204,12.8,214,235,57,106,150,80
+178,2020-12-22 22:42:06,Female,Married,1974,Lycee,Working,Other,medical secretary,Yes,Sosyal Sigorta,,Average ,Good,11,OAD + Insulin,165,79,29.0,131,10.5,215,127,55,134,100,60
+179,2020-12-24 15:22:48,Female,Married,1971,Literate,Not working ,,,Yes,Sosyal Sigorta,,Bad,Bad,7,Insulin,163,83,31.2,220,11,259,270,65,140,140,70
+180,2020-12-31 15:03:34,Male,Not Married,1988,High School,Working,Other,MOBÝLYACI,No,,,Bad,Average ,1,OAD + Insulin,,,,262,10.84,164,134,24.3,113,,
+181,2020-12-24 13:14:28,Male,Not Married,1976,University,Working,Officer,,Yes,Sosyal Sigorta,,Good,Average ,1,OAD + Insulin,175,75,24.5,300,14,156,150,32,94,120,70
+182,2021-01-05 14:20:03,Male,Married,1978,University,Working,Officer,,Yes,Emekli Sandýðý,,Very Bad,Average ,6,OAD,170,71,24.6,120,6,,,,,110,70
+183,2020-12-22 20:44:57,Female,Married,1965,University,Working,Officer,,Yes,Emekli Sandýðý,,Average ,Average ,16,OAD,155,79,32.9,102,6.2,266,232,52,167,130,90
+184,2020-12-25 14:48:09,Female,Married,1982,Post Graduate,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,1,OAD,164,71,26.4,121,6.7,,,,,110,70
+185,2020-12-30 16:24:37,Male,Married,1984,Post Graduate,Working,Officer,,Yes,Emekli Sandýðý,,Good,Average ,2,OAD,175,92,30.0,120,65,234,444,32,112,120,80
+186,2020-12-23 11:22:34,Male,Married,1955,High School,Not working ,,,Yes,Other,baðkur,Good,Good,15,OAD + Insulin,164,86.9,32.3,308,10.61,171,203,31.6,98.8,130,70
+187,2020-12-24 11:35:07,Female,Married,1972,Primary School,Not working ,,,Yes,Sosyal Sigorta,,Average ,Average ,1,OAD,156,65,26.7,128,6.5,206,98,,,110,80
+188,2020-12-21 12:43:29,Male,Married,1956,Primary School,Not working ,,,Yes,Emekli Sandýðý,,Bad,Very Bad,10,OAD + Insulin,150,44,19.6,76,9,,109,28,,130,80
+189,2020-12-29 10:44:12,Male,Married,1957,University,Retired,,,Yes,,,Bad,Average ,30,OAD + Insulin,165,71,26.1,113,66,177,80,48,113,130,80
+190,2020-12-29 10:39:30,Female,Married,1973,Literate,Not working ,,,Yes,Sosyal Sigorta,,Bad,Average ,5,OAD,155,82,34.1,130,6.2,124,136,38,72,140,90
+191,2020-12-22 19:38:02,Female,Married,1967,Primary School,Working,Other,temizlik,Yes,Sosyal Sigorta,,Average ,Average ,7,OAD,165,89,32.7,101,7.5,226,369,64,133,100,60
+192,2020-12-30 15:33:03,Male,Not Married,1976,Primary School,Working,Farmer,,No,,,Average ,Average ,5,OAD + Insulin,165,71,26.1,320,10,226,854,30,24,130,90
+193,2020-12-24 09:06:46,Female,Married,1973,Primary School,Not working ,,,Yes,,,Average ,Bad,10,OAD,154,76,32.0,186,7,125,136,58,96,140,70
+194,2020-12-30 14:33:12,Female,Married,1970,Illiterate,Working,Other,GÜNLÜK SERA ÝÞÝ,Yes,Other,YEÞÝL KART,Bad,Average ,9,OAD + Insulin,,,,352,15,306,210,47.7,216,,
+195,2021-01-05 13:45:45,Female,Married,1951,Illiterate,Working,Housewife,,Yes,Sosyal Sigorta,,Bad,Bad,23,OAD + Insulin,152,67,29.0,127,6.94,132,157,43.2,108.3,135,75
+196,2020-12-17 11:05:23,Female,Married,1950,Primary School,Not working ,,,Yes,Emekli Sandýðý,,Average ,Bad,4,OAD + Insulin,165,98,36.0,270,10.8,400,600,,,140,85
+197,2020-12-23 09:38:30,Female,Married,1956,Illiterate,Not working ,,,Yes,Other,baðkur,Good,Good,12,OAD + Insulin,152,79,34.2,372,9.64,157,149,57.6,69.6,130,80
+198,2020-12-16 10:12:28,Female,Married,1973,Primary School,Not working ,,,Yes,,,Average ,Average ,13,OAD + Insulin,155,67,27.9,373,14.1,208,296,39,110,150,80
+199,2020-12-25 11:54:46,Male,Married,1950,Primary School,Retired,,,Yes,,,Average ,Average ,3,Diet only,170,90,31.1,,8.6,,,,,,
+200,2020-12-25 12:13:41,Male,Married,1968,University,Working,Labor,,Yes,Sosyal Sigorta,,Average ,Average ,15,Insulin,170,78,27.0,310,8,152,177,29,87,110,70
