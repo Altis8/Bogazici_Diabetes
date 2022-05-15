@@ -73,4 +73,4 @@ VARIABLE WIDTH Your_perception_of_your_health_state (8).
 VARIABLE LEVEL How_is_your_diabetes_treated (SCALE).
 VARIABLE ALIGNMENT How_is_your_diabetes_treated (RIGHT).
 VARIABLE WIDTH How_is_your_diabetes_treated (8).
-SAVE OUTFILE="C:\Users\BME594\Documents\Projects\Bogazici_Diabetes\data\Bogazici_diabetes_study_data_ISO-8859-9.sav".
+SAVE OUTFILE="C:\Users\BME594\Documents\Projects\Bogazici_Diabetes\data\01_Bogazici_diabetes_study_data_ISO-8859-9.sav".
